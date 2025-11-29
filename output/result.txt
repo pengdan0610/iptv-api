@@ -1,35 +1,6 @@
 🕘️更新时间,#genre#
-2025-11-29 06:18:21,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-
-📺央视频道,#genre#
-CCTV-1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-CCTV-2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-CCTV-3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-CCTV-10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+2025-11-29 18:18:19,url
 
 💰央视付费频道,#genre#
 
-📡卫视频道,#genre#
-湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
-东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian
-深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
-
-🌊港·澳·台,#genre#
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-
 🎬电影频道,#genre#
-纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
