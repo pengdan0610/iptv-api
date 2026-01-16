@@ -1,6 +1,22 @@
 🕘️更新时间,#genre#
-2026-01-16 06:20:47,url
+2026-01-16 18:22:56,http://tvlist.top/jd/index.php?id=cctv8&qt=tkmark.direct.quickconnect.to:8014
+
+📺央视频道,#genre#
+CCTV-8,http://tvlist.top/jd/index.php?id=cctv8&qt=tkmark.direct.quickconnect.to:8014
+CCTV-10,http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
+CCTV-14,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+CCTV-15,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
 
 💰央视付费频道,#genre#
+
+📡卫视频道,#genre#
+北京卫视,http://tvlist.top/jd/index.php?id=live1023&qt=tkmark.direct.quickconnect.to:8014
+黑龙江卫视,http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014
+安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=183.224.122.114:8014
+重庆卫视,http://tvlist.top/jd/index.php?id=live1041&qt=tkmark.direct.quickconnect.to:8014
+甘肃卫视,http://tvlist.top/jd/index.php?id=live1053&qt=tkmark.direct.quickconnect.to:8014
+吉林卫视,http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014
+山东卫视,http://tvlist.top/jd/index.php?id=sdws&qt=183.224.122.114:8014
+山西卫视,http://tvlist.top/jd/index.php?id=sxws&qt=183.224.122.114:8014
 
 🎬电影频道,#genre#
