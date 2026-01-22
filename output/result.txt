@@ -1,6 +1,10 @@
 🕘️更新时间,#genre#
-2026-01-22 18:26:45,url
+2026-01-23 06:22:40,http://hls.168.us.kg/u/81/master.m3u8
 
 💰央视付费频道,#genre#
+
+🌊港·澳·台,#genre#
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+明珠台,http://hls.168.us.kg/u/84/master.m3u8
 
 🎬电影频道,#genre#
