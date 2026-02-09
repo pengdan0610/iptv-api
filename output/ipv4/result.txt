@@ -1,6 +1,16 @@
 🕘️更新时间,#genre#
-2026-02-09 18:55:00,url
+2026-02-10 06:35:55,http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
+
+📺央视频道,#genre#
+CCTV-10,http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
+CCTV-14,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+CCTV-15,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
 
 💰央视付费频道,#genre#
+
+📡卫视频道,#genre#
+黑龙江卫视,http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014
+吉林卫视,http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014
+山东卫视,http://tvlist.top/jd/index.php?id=sdws&qt=183.224.122.114:8014
 
 🎬电影频道,#genre#
