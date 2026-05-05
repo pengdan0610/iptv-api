@@ -1,11 +1,6 @@
 🕘️更新时间,#genre#
-2026-05-05 06:56:53,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
+2026-05-05 19:15:12,url
 
 💰央视付费频道,#genre#
-
-🌊港·澳·台,#genre#
-翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
-凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
-凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
