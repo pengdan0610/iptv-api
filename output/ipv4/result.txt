@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-05-22 07:02:26,url
+2026-05-22 20:16:42,http://mytv.cdn.loc.cc/o12.php?id=mzt
 
 💰央视付费频道,#genre#
 
 🌊港·澳·台,#genre#
+明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 
 🎬电影频道,#genre#
