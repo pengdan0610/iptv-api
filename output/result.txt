@@ -1,8 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-23 19:09:47,url
+2026-05-24 06:52:18,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
 
 💰央视付费频道,#genre#
 
 🌊港·澳·台,#genre#
+靖天资讯,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
 
 🎬电影频道,#genre#
+靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
+靖天戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858
